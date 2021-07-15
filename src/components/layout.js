@@ -38,6 +38,8 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer
           style={{
+            position: `fixed`,
+            bottom: '2rem',
             marginTop: `2rem`,
           }}
         >
