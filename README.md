@@ -1,11 +1,32 @@
-
 <h1 align="center">
   Gatsby's Practice
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+✨ View the app live in production [here](https://gatsby-static-site-practice.netlify.app)
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+## 🚀 Clone project
+
+1.  **Clone GitHub repositiory.**
+
+    ```shell
+    git clone https://github.com/shallihan/gatsby_practice.git
+    ```
+
+2.  **Install depend.**
+
+    ```shell
+    cd gatsby-practice
+    npm install
+    ```
+
+3.  **Start developing.**
+
+Navigate into your new site’s directory and start it up.
+
+    ```shell
+    cd gatsby-practice/
+    gatsby develop
+    ```
 
 ## 🚀 Quick start
 
@@ -14,7 +35,6 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     ```shell
     sudo npm i -g gatsby-cli
     ```
-
 
 2.  **Create a Gatsby site.**
 
@@ -25,7 +45,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     gatsby new gatsby-practice
     ```
 
-4.  **Start developing.**
+3.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
@@ -34,14 +54,13 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     gatsby develop
     ```
 
-1.  **Open the source code and start editing!**
+4.  **Open the source code and start editing.**
 
     Your site is now running at `http://localhost:8000`!
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
     Open the `gatsby-practice` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
 
 ## 🎓 Learning Gatsby
 
